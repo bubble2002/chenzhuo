@@ -1,2 +1,2 @@
 # chenzhuo
-small innovations based on giant's shoulder
+small innovations standing on giant's shoulder
